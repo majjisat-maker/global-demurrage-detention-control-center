@@ -1,0 +1,1501 @@
+Rake_ID,Delay_Root_Cause,Terminal_Efficiency_Score
+RAKE-20250001,None (Nominal Operations),0.84
+RAKE-20250002,Equipment Breakdown,0.39
+RAKE-20250003,None (Nominal Operations),0.86
+RAKE-20250004,None (Nominal Operations),0.78
+RAKE-20250005,None (Nominal Operations),0.72
+RAKE-20250006,Yard Congestion,0.21
+RAKE-20250007,Railway Traffic,0.59
+RAKE-20250008,None (Nominal Operations),0.95
+RAKE-20250009,None (Nominal Operations),0.96
+RAKE-20250010,None (Nominal Operations),0.97
+RAKE-20250011,None (Nominal Operations),0.76
+RAKE-20250012,None (Nominal Operations),0.79
+RAKE-20250013,Shift Handover Delay,0.93
+RAKE-20250014,None (Nominal Operations),0.96
+RAKE-20250015,None (Nominal Operations),0.92
+RAKE-20250016,None (Nominal Operations),0.79
+RAKE-20250017,Equipment Breakdown,0.46
+RAKE-20250018,None (Nominal Operations),0.9
+RAKE-20250019,None (Nominal Operations),0.9
+RAKE-20250020,Weather Disruption,0.23
+RAKE-20250021,Shift Handover Delay,0.72
+RAKE-20250022,None (Nominal Operations),0.72
+RAKE-20250023,Railway Traffic,0.6
+RAKE-20250024,None (Nominal Operations),0.94
+RAKE-20250025,None (Nominal Operations),0.96
+RAKE-20250026,None (Nominal Operations),0.9
+RAKE-20250027,Yard Congestion,0.18
+RAKE-20250028,None (Nominal Operations),0.84
+RAKE-20250029,None (Nominal Operations),0.91
+RAKE-20250030,None (Nominal Operations),0.81
+RAKE-20250031,None (Nominal Operations),0.75
+RAKE-20250032,None (Nominal Operations),0.94
+RAKE-20250033,Weather Disruption,0.16
+RAKE-20250034,None (Nominal Operations),0.91
+RAKE-20250035,None (Nominal Operations),0.92
+RAKE-20250036,None (Nominal Operations),0.75
+RAKE-20250037,None (Nominal Operations),0.76
+RAKE-20250038,Equipment Breakdown,0.23
+RAKE-20250039,None (Nominal Operations),0.88
+RAKE-20250040,None (Nominal Operations),0.79
+RAKE-20250041,None (Nominal Operations),0.77
+RAKE-20250042,Equipment Breakdown,0.31
+RAKE-20250043,Shift Handover Delay,0.8
+RAKE-20250044,None (Nominal Operations),0.93
+RAKE-20250045,Equipment Breakdown,0.22
+RAKE-20250046,Yard Congestion,0.28
+RAKE-20250047,None (Nominal Operations),0.89
+RAKE-20250048,None (Nominal Operations),0.79
+RAKE-20250049,None (Nominal Operations),0.93
+RAKE-20250050,None (Nominal Operations),0.75
+RAKE-20250051,None (Nominal Operations),0.9
+RAKE-20250052,None (Nominal Operations),0.89
+RAKE-20250053,None (Nominal Operations),0.74
+RAKE-20250054,None (Nominal Operations),0.95
+RAKE-20250055,None (Nominal Operations),0.72
+RAKE-20250056,Equipment Breakdown,0.26
+RAKE-20250057,None (Nominal Operations),0.89
+RAKE-20250058,None (Nominal Operations),0.72
+RAKE-20250059,None (Nominal Operations),0.75
+RAKE-20250060,Equipment Breakdown,0.44
+RAKE-20250061,None (Nominal Operations),0.95
+RAKE-20250062,None (Nominal Operations),0.87
+RAKE-20250063,None (Nominal Operations),0.91
+RAKE-20250064,None (Nominal Operations),0.81
+RAKE-20250065,None (Nominal Operations),0.87
+RAKE-20250066,None (Nominal Operations),0.91
+RAKE-20250067,None (Nominal Operations),0.91
+RAKE-20250068,Yard Congestion,0.21
+RAKE-20250069,Shift Handover Delay,0.7
+RAKE-20250070,None (Nominal Operations),0.87
+RAKE-20250071,Equipment Breakdown,0.31
+RAKE-20250072,Shift Handover Delay,0.74
+RAKE-20250073,None (Nominal Operations),0.96
+RAKE-20250074,None (Nominal Operations),0.96
+RAKE-20250075,None (Nominal Operations),0.72
+RAKE-20250076,Yard Congestion,0.25
+RAKE-20250077,Equipment Breakdown,0.24
+RAKE-20250078,None (Nominal Operations),0.95
+RAKE-20250079,None (Nominal Operations),0.89
+RAKE-20250080,Weather Disruption,0.22
+RAKE-20250081,Railway Traffic,0.48
+RAKE-20250082,Yard Congestion,0.21
+RAKE-20250083,None (Nominal Operations),0.97
+RAKE-20250084,None (Nominal Operations),0.71
+RAKE-20250085,Equipment Breakdown,0.22
+RAKE-20250086,Yard Congestion,0.14
+RAKE-20250087,Shift Handover Delay,0.79
+RAKE-20250088,Shift Handover Delay,0.86
+RAKE-20250089,None (Nominal Operations),0.8
+RAKE-20250090,None (Nominal Operations),0.95
+RAKE-20250091,None (Nominal Operations),0.77
+RAKE-20250092,Yard Congestion,0.13
+RAKE-20250093,None (Nominal Operations),0.84
+RAKE-20250094,Railway Traffic,0.42
+RAKE-20250095,None (Nominal Operations),0.77
+RAKE-20250096,Shift Handover Delay,0.86
+RAKE-20250097,Yard Congestion,0.19
+RAKE-20250098,None (Nominal Operations),0.89
+RAKE-20250099,None (Nominal Operations),0.79
+RAKE-20250100,None (Nominal Operations),0.9
+RAKE-20250101,None (Nominal Operations),0.71
+RAKE-20250102,Yard Congestion,0.18
+RAKE-20250103,Railway Traffic,0.5
+RAKE-20250104,None (Nominal Operations),0.77
+RAKE-20250105,None (Nominal Operations),0.98
+RAKE-20250106,None (Nominal Operations),0.9
+RAKE-20250107,Yard Congestion,0.3
+RAKE-20250108,None (Nominal Operations),0.71
+RAKE-20250109,None (Nominal Operations),0.78
+RAKE-20250110,None (Nominal Operations),0.93
+RAKE-20250111,None (Nominal Operations),0.78
+RAKE-20250112,Shift Handover Delay,0.83
+RAKE-20250113,Yard Congestion,0.19
+RAKE-20250114,None (Nominal Operations),0.96
+RAKE-20250115,None (Nominal Operations),0.72
+RAKE-20250116,Railway Traffic,0.51
+RAKE-20250117,Yard Congestion,0.39
+RAKE-20250118,None (Nominal Operations),0.97
+RAKE-20250119,None (Nominal Operations),0.71
+RAKE-20250120,Shift Handover Delay,0.84
+RAKE-20250121,None (Nominal Operations),0.93
+RAKE-20250122,None (Nominal Operations),0.86
+RAKE-20250123,None (Nominal Operations),0.93
+RAKE-20250124,None (Nominal Operations),0.91
+RAKE-20250125,Equipment Breakdown,0.35
+RAKE-20250126,None (Nominal Operations),0.89
+RAKE-20250127,None (Nominal Operations),0.9
+RAKE-20250128,Shift Handover Delay,0.76
+RAKE-20250129,Equipment Breakdown,0.48
+RAKE-20250130,Yard Congestion,0.19
+RAKE-20250131,Yard Congestion,0.26
+RAKE-20250132,Yard Congestion,0.33
+RAKE-20250133,Equipment Breakdown,0.39
+RAKE-20250134,Shift Handover Delay,0.89
+RAKE-20250135,None (Nominal Operations),0.95
+RAKE-20250136,Shift Handover Delay,0.75
+RAKE-20250137,Yard Congestion,0.22
+RAKE-20250138,Railway Traffic,0.55
+RAKE-20250139,None (Nominal Operations),0.82
+RAKE-20250140,None (Nominal Operations),0.85
+RAKE-20250141,None (Nominal Operations),0.9
+RAKE-20250142,Railway Traffic,0.44
+RAKE-20250143,None (Nominal Operations),0.8
+RAKE-20250144,None (Nominal Operations),0.82
+RAKE-20250145,None (Nominal Operations),0.91
+RAKE-20250146,None (Nominal Operations),0.89
+RAKE-20250147,Equipment Breakdown,0.33
+RAKE-20250148,None (Nominal Operations),0.82
+RAKE-20250149,Equipment Breakdown,0.5
+RAKE-20250150,None (Nominal Operations),0.84
+RAKE-20250151,None (Nominal Operations),0.85
+RAKE-20250152,None (Nominal Operations),0.81
+RAKE-20250153,Yard Congestion,0.35
+RAKE-20250154,None (Nominal Operations),0.95
+RAKE-20250155,None (Nominal Operations),0.77
+RAKE-20250156,None (Nominal Operations),0.94
+RAKE-20250157,Equipment Breakdown,0.31
+RAKE-20250158,None (Nominal Operations),0.95
+RAKE-20250159,Yard Congestion,0.16
+RAKE-20250160,Shift Handover Delay,0.74
+RAKE-20250161,None (Nominal Operations),0.84
+RAKE-20250162,None (Nominal Operations),0.94
+RAKE-20250163,None (Nominal Operations),0.93
+RAKE-20250164,None (Nominal Operations),0.93
+RAKE-20250165,None (Nominal Operations),0.73
+RAKE-20250166,None (Nominal Operations),0.81
+RAKE-20250167,Railway Traffic,0.37
+RAKE-20250168,None (Nominal Operations),0.84
+RAKE-20250169,Yard Congestion,0.27
+RAKE-20250170,None (Nominal Operations),0.71
+RAKE-20250171,None (Nominal Operations),0.77
+RAKE-20250172,None (Nominal Operations),0.86
+RAKE-20250173,None (Nominal Operations),0.82
+RAKE-20250174,Shift Handover Delay,0.96
+RAKE-20250175,None (Nominal Operations),0.73
+RAKE-20250176,None (Nominal Operations),0.76
+RAKE-20250177,None (Nominal Operations),0.85
+RAKE-20250178,Equipment Breakdown,0.48
+RAKE-20250179,Railway Traffic,0.39
+RAKE-20250180,Weather Disruption,0.13
+RAKE-20250181,Shift Handover Delay,0.79
+RAKE-20250182,None (Nominal Operations),0.77
+RAKE-20250183,None (Nominal Operations),0.73
+RAKE-20250184,None (Nominal Operations),0.84
+RAKE-20250185,None (Nominal Operations),0.8
+RAKE-20250186,None (Nominal Operations),0.75
+RAKE-20250187,None (Nominal Operations),0.74
+RAKE-20250188,None (Nominal Operations),0.91
+RAKE-20250189,Railway Traffic,0.45
+RAKE-20250190,Railway Traffic,0.51
+RAKE-20250191,None (Nominal Operations),0.72
+RAKE-20250192,Yard Congestion,0.3
+RAKE-20250193,Weather Disruption,0.13
+RAKE-20250194,None (Nominal Operations),0.8
+RAKE-20250195,None (Nominal Operations),0.85
+RAKE-20250196,Shift Handover Delay,0.86
+RAKE-20250197,Yard Congestion,0.43
+RAKE-20250198,Equipment Breakdown,0.42
+RAKE-20250199,None (Nominal Operations),0.93
+RAKE-20250200,None (Nominal Operations),0.92
+RAKE-20250201,None (Nominal Operations),0.77
+RAKE-20250202,None (Nominal Operations),0.87
+RAKE-20250203,None (Nominal Operations),0.71
+RAKE-20250204,Equipment Breakdown,0.32
+RAKE-20250205,None (Nominal Operations),0.89
+RAKE-20250206,Yard Congestion,0.17
+RAKE-20250207,Railway Traffic,0.62
+RAKE-20250208,Equipment Breakdown,0.48
+RAKE-20250209,Shift Handover Delay,0.9
+RAKE-20250210,None (Nominal Operations),0.87
+RAKE-20250211,None (Nominal Operations),0.71
+RAKE-20250212,None (Nominal Operations),0.96
+RAKE-20250213,None (Nominal Operations),0.87
+RAKE-20250214,Yard Congestion,0.27
+RAKE-20250215,None (Nominal Operations),0.74
+RAKE-20250216,None (Nominal Operations),0.72
+RAKE-20250217,None (Nominal Operations),0.92
+RAKE-20250218,None (Nominal Operations),0.83
+RAKE-20250219,Yard Congestion,0.29
+RAKE-20250220,Railway Traffic,0.53
+RAKE-20250221,None (Nominal Operations),0.77
+RAKE-20250222,None (Nominal Operations),0.86
+RAKE-20250223,None (Nominal Operations),0.93
+RAKE-20250224,Shift Handover Delay,0.9
+RAKE-20250225,None (Nominal Operations),0.8
+RAKE-20250226,Railway Traffic,0.43
+RAKE-20250227,None (Nominal Operations),0.85
+RAKE-20250228,None (Nominal Operations),0.71
+RAKE-20250229,None (Nominal Operations),0.85
+RAKE-20250230,None (Nominal Operations),0.89
+RAKE-20250231,None (Nominal Operations),0.92
+RAKE-20250232,None (Nominal Operations),0.72
+RAKE-20250233,None (Nominal Operations),0.78
+RAKE-20250234,None (Nominal Operations),0.81
+RAKE-20250235,None (Nominal Operations),0.94
+RAKE-20250236,None (Nominal Operations),0.8
+RAKE-20250237,None (Nominal Operations),0.9
+RAKE-20250238,Yard Congestion,0.4
+RAKE-20250239,None (Nominal Operations),0.74
+RAKE-20250240,Shift Handover Delay,0.71
+RAKE-20250241,None (Nominal Operations),0.8
+RAKE-20250242,None (Nominal Operations),0.88
+RAKE-20250243,None (Nominal Operations),0.85
+RAKE-20250244,Yard Congestion,0.16
+RAKE-20250245,Yard Congestion,0.4
+RAKE-20250246,None (Nominal Operations),0.82
+RAKE-20250247,None (Nominal Operations),0.78
+RAKE-20250248,None (Nominal Operations),0.73
+RAKE-20250249,Yard Congestion,0.37
+RAKE-20250250,None (Nominal Operations),0.92
+RAKE-20250251,Shift Handover Delay,0.94
+RAKE-20250252,None (Nominal Operations),0.86
+RAKE-20250253,None (Nominal Operations),0.81
+RAKE-20250254,None (Nominal Operations),0.98
+RAKE-20250255,None (Nominal Operations),0.75
+RAKE-20250256,Shift Handover Delay,0.75
+RAKE-20250257,Railway Traffic,0.63
+RAKE-20250258,Shift Handover Delay,0.84
+RAKE-20250259,None (Nominal Operations),0.88
+RAKE-20250260,Weather Disruption,0.11
+RAKE-20250261,None (Nominal Operations),0.96
+RAKE-20250262,None (Nominal Operations),0.82
+RAKE-20250263,None (Nominal Operations),0.94
+RAKE-20250264,Shift Handover Delay,0.91
+RAKE-20250265,Equipment Breakdown,0.49
+RAKE-20250266,None (Nominal Operations),0.88
+RAKE-20250267,None (Nominal Operations),0.81
+RAKE-20250268,None (Nominal Operations),0.95
+RAKE-20250269,None (Nominal Operations),0.95
+RAKE-20250270,Yard Congestion,0.34
+RAKE-20250271,None (Nominal Operations),0.75
+RAKE-20250272,None (Nominal Operations),0.92
+RAKE-20250273,Yard Congestion,0.31
+RAKE-20250274,None (Nominal Operations),0.88
+RAKE-20250275,Yard Congestion,0.39
+RAKE-20250276,Yard Congestion,0.42
+RAKE-20250277,Yard Congestion,0.42
+RAKE-20250278,None (Nominal Operations),0.88
+RAKE-20250279,None (Nominal Operations),0.87
+RAKE-20250280,Yard Congestion,0.21
+RAKE-20250281,Shift Handover Delay,0.79
+RAKE-20250282,None (Nominal Operations),0.74
+RAKE-20250283,Yard Congestion,0.41
+RAKE-20250284,Weather Disruption,0.21
+RAKE-20250285,None (Nominal Operations),0.74
+RAKE-20250286,None (Nominal Operations),0.88
+RAKE-20250287,None (Nominal Operations),0.86
+RAKE-20250288,Railway Traffic,0.43
+RAKE-20250289,Weather Disruption,0.14
+RAKE-20250290,Shift Handover Delay,0.81
+RAKE-20250291,Shift Handover Delay,0.76
+RAKE-20250292,Weather Disruption,0.2
+RAKE-20250293,None (Nominal Operations),0.87
+RAKE-20250294,None (Nominal Operations),0.77
+RAKE-20250295,Yard Congestion,0.22
+RAKE-20250296,None (Nominal Operations),0.87
+RAKE-20250297,None (Nominal Operations),0.96
+RAKE-20250298,None (Nominal Operations),0.75
+RAKE-20250299,None (Nominal Operations),0.79
+RAKE-20250300,Yard Congestion,0.31
+RAKE-20250301,None (Nominal Operations),0.97
+RAKE-20250302,Railway Traffic,0.45
+RAKE-20250303,None (Nominal Operations),0.93
+RAKE-20250304,None (Nominal Operations),0.98
+RAKE-20250305,None (Nominal Operations),0.72
+RAKE-20250306,None (Nominal Operations),0.72
+RAKE-20250307,None (Nominal Operations),0.84
+RAKE-20250308,None (Nominal Operations),0.75
+RAKE-20250309,Shift Handover Delay,0.83
+RAKE-20250310,None (Nominal Operations),0.89
+RAKE-20250311,Yard Congestion,0.34
+RAKE-20250312,Shift Handover Delay,0.8
+RAKE-20250313,Yard Congestion,0.34
+RAKE-20250314,None (Nominal Operations),0.75
+RAKE-20250315,None (Nominal Operations),0.75
+RAKE-20250316,None (Nominal Operations),0.73
+RAKE-20250317,None (Nominal Operations),0.85
+RAKE-20250318,None (Nominal Operations),0.9
+RAKE-20250319,Yard Congestion,0.4
+RAKE-20250320,Yard Congestion,0.23
+RAKE-20250321,None (Nominal Operations),0.79
+RAKE-20250322,Shift Handover Delay,0.8
+RAKE-20250323,Railway Traffic,0.62
+RAKE-20250324,None (Nominal Operations),0.97
+RAKE-20250325,Equipment Breakdown,0.47
+RAKE-20250326,Equipment Breakdown,0.36
+RAKE-20250327,Railway Traffic,0.43
+RAKE-20250328,None (Nominal Operations),0.71
+RAKE-20250329,None (Nominal Operations),0.97
+RAKE-20250330,None (Nominal Operations),0.88
+RAKE-20250331,None (Nominal Operations),0.84
+RAKE-20250332,Equipment Breakdown,0.42
+RAKE-20250333,None (Nominal Operations),0.73
+RAKE-20250334,None (Nominal Operations),0.98
+RAKE-20250335,Railway Traffic,0.62
+RAKE-20250336,Yard Congestion,0.39
+RAKE-20250337,Railway Traffic,0.4
+RAKE-20250338,Yard Congestion,0.11
+RAKE-20250339,None (Nominal Operations),0.71
+RAKE-20250340,None (Nominal Operations),0.89
+RAKE-20250341,Railway Traffic,0.55
+RAKE-20250342,None (Nominal Operations),0.71
+RAKE-20250343,Shift Handover Delay,0.84
+RAKE-20250344,None (Nominal Operations),0.91
+RAKE-20250345,None (Nominal Operations),0.95
+RAKE-20250346,Railway Traffic,0.36
+RAKE-20250347,None (Nominal Operations),0.79
+RAKE-20250348,None (Nominal Operations),0.72
+RAKE-20250349,None (Nominal Operations),0.93
+RAKE-20250350,Shift Handover Delay,0.89
+RAKE-20250351,None (Nominal Operations),0.91
+RAKE-20250352,None (Nominal Operations),0.77
+RAKE-20250353,Railway Traffic,0.51
+RAKE-20250354,None (Nominal Operations),0.76
+RAKE-20250355,None (Nominal Operations),0.78
+RAKE-20250356,None (Nominal Operations),0.82
+RAKE-20250357,Yard Congestion,0.26
+RAKE-20250358,None (Nominal Operations),0.76
+RAKE-20250359,Weather Disruption,0.21
+RAKE-20250360,Shift Handover Delay,0.82
+RAKE-20250361,Equipment Breakdown,0.41
+RAKE-20250362,None (Nominal Operations),0.76
+RAKE-20250363,Railway Traffic,0.5
+RAKE-20250364,None (Nominal Operations),0.86
+RAKE-20250365,Railway Traffic,0.63
+RAKE-20250366,None (Nominal Operations),0.73
+RAKE-20250367,None (Nominal Operations),0.93
+RAKE-20250368,None (Nominal Operations),0.81
+RAKE-20250369,None (Nominal Operations),0.72
+RAKE-20250370,Equipment Breakdown,0.23
+RAKE-20250371,None (Nominal Operations),0.88
+RAKE-20250372,None (Nominal Operations),0.86
+RAKE-20250373,None (Nominal Operations),0.87
+RAKE-20250374,None (Nominal Operations),0.93
+RAKE-20250375,Yard Congestion,0.31
+RAKE-20250376,Equipment Breakdown,0.47
+RAKE-20250377,Yard Congestion,0.34
+RAKE-20250378,None (Nominal Operations),0.76
+RAKE-20250379,Shift Handover Delay,0.9
+RAKE-20250380,Equipment Breakdown,0.4
+RAKE-20250381,None (Nominal Operations),0.84
+RAKE-20250382,None (Nominal Operations),0.93
+RAKE-20250383,None (Nominal Operations),0.94
+RAKE-20250384,None (Nominal Operations),0.9
+RAKE-20250385,None (Nominal Operations),0.81
+RAKE-20250386,Weather Disruption,0.1
+RAKE-20250387,None (Nominal Operations),0.77
+RAKE-20250388,None (Nominal Operations),0.89
+RAKE-20250389,None (Nominal Operations),0.86
+RAKE-20250390,None (Nominal Operations),0.91
+RAKE-20250391,None (Nominal Operations),0.92
+RAKE-20250392,Railway Traffic,0.55
+RAKE-20250393,Yard Congestion,0.3
+RAKE-20250394,None (Nominal Operations),0.73
+RAKE-20250395,Weather Disruption,0.15
+RAKE-20250396,Yard Congestion,0.37
+RAKE-20250397,Yard Congestion,0.25
+RAKE-20250398,Weather Disruption,0.13
+RAKE-20250399,Shift Handover Delay,0.76
+RAKE-20250400,None (Nominal Operations),0.79
+RAKE-20250401,None (Nominal Operations),0.77
+RAKE-20250402,Shift Handover Delay,0.8
+RAKE-20250403,Yard Congestion,0.41
+RAKE-20250404,None (Nominal Operations),0.92
+RAKE-20250405,Railway Traffic,0.36
+RAKE-20250406,Railway Traffic,0.64
+RAKE-20250407,Yard Congestion,0.27
+RAKE-20250408,Equipment Breakdown,0.23
+RAKE-20250409,None (Nominal Operations),0.76
+RAKE-20250410,None (Nominal Operations),0.97
+RAKE-20250411,None (Nominal Operations),0.93
+RAKE-20250412,None (Nominal Operations),0.84
+RAKE-20250413,None (Nominal Operations),0.72
+RAKE-20250414,None (Nominal Operations),0.94
+RAKE-20250415,Yard Congestion,0.16
+RAKE-20250416,Shift Handover Delay,0.93
+RAKE-20250417,None (Nominal Operations),0.78
+RAKE-20250418,None (Nominal Operations),0.97
+RAKE-20250419,None (Nominal Operations),0.81
+RAKE-20250420,None (Nominal Operations),0.93
+RAKE-20250421,Yard Congestion,0.35
+RAKE-20250422,None (Nominal Operations),0.86
+RAKE-20250423,Equipment Breakdown,0.31
+RAKE-20250424,None (Nominal Operations),0.88
+RAKE-20250425,Yard Congestion,0.12
+RAKE-20250426,None (Nominal Operations),0.91
+RAKE-20250427,None (Nominal Operations),0.78
+RAKE-20250428,None (Nominal Operations),0.79
+RAKE-20250429,Equipment Breakdown,0.29
+RAKE-20250430,None (Nominal Operations),0.88
+RAKE-20250431,None (Nominal Operations),0.71
+RAKE-20250432,Yard Congestion,0.45
+RAKE-20250433,Weather Disruption,0.24
+RAKE-20250434,None (Nominal Operations),0.79
+RAKE-20250435,Equipment Breakdown,0.33
+RAKE-20250436,Shift Handover Delay,0.81
+RAKE-20250437,None (Nominal Operations),0.74
+RAKE-20250438,None (Nominal Operations),0.73
+RAKE-20250439,Yard Congestion,0.33
+RAKE-20250440,Equipment Breakdown,0.26
+RAKE-20250441,None (Nominal Operations),0.88
+RAKE-20250442,None (Nominal Operations),0.91
+RAKE-20250443,None (Nominal Operations),0.72
+RAKE-20250444,Railway Traffic,0.54
+RAKE-20250445,Equipment Breakdown,0.32
+RAKE-20250446,None (Nominal Operations),0.88
+RAKE-20250447,Yard Congestion,0.29
+RAKE-20250448,Yard Congestion,0.25
+RAKE-20250449,None (Nominal Operations),0.92
+RAKE-20250450,Shift Handover Delay,0.82
+RAKE-20250451,None (Nominal Operations),0.97
+RAKE-20250452,None (Nominal Operations),0.81
+RAKE-20250453,None (Nominal Operations),0.79
+RAKE-20250454,None (Nominal Operations),0.72
+RAKE-20250455,Yard Congestion,0.36
+RAKE-20250456,None (Nominal Operations),0.72
+RAKE-20250457,None (Nominal Operations),0.9
+RAKE-20250458,Equipment Breakdown,0.49
+RAKE-20250459,Yard Congestion,0.11
+RAKE-20250460,None (Nominal Operations),0.8
+RAKE-20250461,None (Nominal Operations),0.77
+RAKE-20250462,None (Nominal Operations),0.86
+RAKE-20250463,None (Nominal Operations),0.93
+RAKE-20250464,None (Nominal Operations),0.89
+RAKE-20250465,None (Nominal Operations),0.91
+RAKE-20250466,Equipment Breakdown,0.4
+RAKE-20250467,None (Nominal Operations),0.77
+RAKE-20250468,None (Nominal Operations),0.86
+RAKE-20250469,Equipment Breakdown,0.21
+RAKE-20250470,None (Nominal Operations),0.88
+RAKE-20250471,None (Nominal Operations),0.86
+RAKE-20250472,Railway Traffic,0.49
+RAKE-20250473,None (Nominal Operations),0.92
+RAKE-20250474,Equipment Breakdown,0.2
+RAKE-20250475,Yard Congestion,0.3
+RAKE-20250476,Railway Traffic,0.38
+RAKE-20250477,Yard Congestion,0.31
+RAKE-20250478,None (Nominal Operations),0.87
+RAKE-20250479,None (Nominal Operations),0.92
+RAKE-20250480,None (Nominal Operations),0.77
+RAKE-20250481,None (Nominal Operations),0.92
+RAKE-20250482,None (Nominal Operations),0.83
+RAKE-20250483,None (Nominal Operations),0.87
+RAKE-20250484,Equipment Breakdown,0.43
+RAKE-20250485,None (Nominal Operations),0.84
+RAKE-20250486,None (Nominal Operations),0.73
+RAKE-20250487,None (Nominal Operations),0.86
+RAKE-20250488,None (Nominal Operations),0.73
+RAKE-20250489,None (Nominal Operations),0.84
+RAKE-20250490,None (Nominal Operations),0.9
+RAKE-20250491,None (Nominal Operations),0.82
+RAKE-20250492,None (Nominal Operations),0.71
+RAKE-20250493,Yard Congestion,0.4
+RAKE-20250494,Railway Traffic,0.5
+RAKE-20250495,Shift Handover Delay,0.91
+RAKE-20250496,None (Nominal Operations),0.81
+RAKE-20250497,Yard Congestion,0.43
+RAKE-20250498,Yard Congestion,0.18
+RAKE-20250499,None (Nominal Operations),0.96
+RAKE-20250500,Railway Traffic,0.56
+RAKE-20250501,None (Nominal Operations),0.83
+RAKE-20250502,Railway Traffic,0.46
+RAKE-20250503,Equipment Breakdown,0.24
+RAKE-20250504,None (Nominal Operations),0.97
+RAKE-20250505,Railway Traffic,0.37
+RAKE-20250506,None (Nominal Operations),0.75
+RAKE-20250507,Equipment Breakdown,0.45
+RAKE-20250508,Shift Handover Delay,0.95
+RAKE-20250509,Yard Congestion,0.38
+RAKE-20250510,None (Nominal Operations),0.73
+RAKE-20250511,None (Nominal Operations),0.73
+RAKE-20250512,None (Nominal Operations),0.89
+RAKE-20250513,Equipment Breakdown,0.26
+RAKE-20250514,Railway Traffic,0.65
+RAKE-20250515,Yard Congestion,0.15
+RAKE-20250516,Yard Congestion,0.29
+RAKE-20250517,None (Nominal Operations),0.87
+RAKE-20250518,None (Nominal Operations),0.88
+RAKE-20250519,None (Nominal Operations),0.91
+RAKE-20250520,None (Nominal Operations),0.73
+RAKE-20250521,None (Nominal Operations),0.83
+RAKE-20250522,None (Nominal Operations),0.9
+RAKE-20250523,None (Nominal Operations),0.91
+RAKE-20250524,None (Nominal Operations),0.76
+RAKE-20250525,None (Nominal Operations),0.9
+RAKE-20250526,None (Nominal Operations),0.71
+RAKE-20250527,Yard Congestion,0.21
+RAKE-20250528,Yard Congestion,0.3
+RAKE-20250529,Equipment Breakdown,0.41
+RAKE-20250530,None (Nominal Operations),0.84
+RAKE-20250531,None (Nominal Operations),0.93
+RAKE-20250532,Weather Disruption,0.21
+RAKE-20250533,None (Nominal Operations),0.75
+RAKE-20250534,None (Nominal Operations),0.97
+RAKE-20250535,None (Nominal Operations),0.89
+RAKE-20250536,None (Nominal Operations),0.77
+RAKE-20250537,None (Nominal Operations),0.79
+RAKE-20250538,None (Nominal Operations),0.7
+RAKE-20250539,None (Nominal Operations),0.9
+RAKE-20250540,None (Nominal Operations),0.73
+RAKE-20250541,None (Nominal Operations),0.72
+RAKE-20250542,Equipment Breakdown,0.36
+RAKE-20250543,None (Nominal Operations),0.75
+RAKE-20250544,None (Nominal Operations),0.88
+RAKE-20250545,Railway Traffic,0.36
+RAKE-20250546,None (Nominal Operations),0.96
+RAKE-20250547,None (Nominal Operations),0.85
+RAKE-20250548,None (Nominal Operations),0.74
+RAKE-20250549,None (Nominal Operations),0.78
+RAKE-20250550,None (Nominal Operations),0.88
+RAKE-20250551,Equipment Breakdown,0.27
+RAKE-20250552,None (Nominal Operations),0.84
+RAKE-20250553,Shift Handover Delay,0.9
+RAKE-20250554,None (Nominal Operations),0.79
+RAKE-20250555,None (Nominal Operations),0.78
+RAKE-20250556,None (Nominal Operations),0.89
+RAKE-20250557,None (Nominal Operations),0.8
+RAKE-20250558,None (Nominal Operations),0.91
+RAKE-20250559,None (Nominal Operations),0.81
+RAKE-20250560,None (Nominal Operations),0.96
+RAKE-20250561,None (Nominal Operations),0.82
+RAKE-20250562,Railway Traffic,0.41
+RAKE-20250563,None (Nominal Operations),0.76
+RAKE-20250564,None (Nominal Operations),0.92
+RAKE-20250565,None (Nominal Operations),0.78
+RAKE-20250566,Yard Congestion,0.32
+RAKE-20250567,None (Nominal Operations),0.96
+RAKE-20250568,None (Nominal Operations),0.88
+RAKE-20250569,Railway Traffic,0.58
+RAKE-20250570,Equipment Breakdown,0.5
+RAKE-20250571,None (Nominal Operations),0.72
+RAKE-20250572,None (Nominal Operations),0.94
+RAKE-20250573,Yard Congestion,0.21
+RAKE-20250574,Yard Congestion,0.43
+RAKE-20250575,Railway Traffic,0.41
+RAKE-20250576,None (Nominal Operations),0.75
+RAKE-20250577,None (Nominal Operations),0.93
+RAKE-20250578,None (Nominal Operations),0.85
+RAKE-20250579,Yard Congestion,0.23
+RAKE-20250580,None (Nominal Operations),0.92
+RAKE-20250581,None (Nominal Operations),0.9
+RAKE-20250582,Railway Traffic,0.41
+RAKE-20250583,None (Nominal Operations),0.89
+RAKE-20250584,Yard Congestion,0.42
+RAKE-20250585,None (Nominal Operations),0.73
+RAKE-20250586,None (Nominal Operations),0.86
+RAKE-20250587,Shift Handover Delay,0.92
+RAKE-20250588,Yard Congestion,0.28
+RAKE-20250589,None (Nominal Operations),0.92
+RAKE-20250590,None (Nominal Operations),0.79
+RAKE-20250591,Equipment Breakdown,0.32
+RAKE-20250592,None (Nominal Operations),0.78
+RAKE-20250593,None (Nominal Operations),0.95
+RAKE-20250594,None (Nominal Operations),0.71
+RAKE-20250595,None (Nominal Operations),0.7
+RAKE-20250596,None (Nominal Operations),0.71
+RAKE-20250597,Shift Handover Delay,0.96
+RAKE-20250598,None (Nominal Operations),0.86
+RAKE-20250599,None (Nominal Operations),0.84
+RAKE-20250600,None (Nominal Operations),0.87
+RAKE-20250601,Shift Handover Delay,0.88
+RAKE-20250602,Shift Handover Delay,0.86
+RAKE-20250603,None (Nominal Operations),0.76
+RAKE-20250604,None (Nominal Operations),0.75
+RAKE-20250605,None (Nominal Operations),0.88
+RAKE-20250606,None (Nominal Operations),0.87
+RAKE-20250607,Railway Traffic,0.6
+RAKE-20250608,None (Nominal Operations),0.93
+RAKE-20250609,Yard Congestion,0.37
+RAKE-20250610,Equipment Breakdown,0.35
+RAKE-20250611,None (Nominal Operations),0.82
+RAKE-20250612,None (Nominal Operations),0.84
+RAKE-20250613,None (Nominal Operations),0.82
+RAKE-20250614,Yard Congestion,0.17
+RAKE-20250615,Shift Handover Delay,0.77
+RAKE-20250616,None (Nominal Operations),0.83
+RAKE-20250617,None (Nominal Operations),0.75
+RAKE-20250618,Equipment Breakdown,0.44
+RAKE-20250619,Weather Disruption,0.17
+RAKE-20250620,None (Nominal Operations),0.74
+RAKE-20250621,None (Nominal Operations),0.7
+RAKE-20250622,None (Nominal Operations),0.72
+RAKE-20250623,Shift Handover Delay,0.96
+RAKE-20250624,Yard Congestion,0.39
+RAKE-20250625,None (Nominal Operations),0.95
+RAKE-20250626,None (Nominal Operations),0.78
+RAKE-20250627,None (Nominal Operations),0.78
+RAKE-20250628,Yard Congestion,0.17
+RAKE-20250629,Railway Traffic,0.52
+RAKE-20250630,None (Nominal Operations),0.8
+RAKE-20250631,Railway Traffic,0.35
+RAKE-20250632,None (Nominal Operations),0.81
+RAKE-20250633,None (Nominal Operations),0.83
+RAKE-20250634,None (Nominal Operations),0.84
+RAKE-20250635,Shift Handover Delay,0.75
+RAKE-20250636,Shift Handover Delay,0.79
+RAKE-20250637,Equipment Breakdown,0.45
+RAKE-20250638,None (Nominal Operations),0.93
+RAKE-20250639,None (Nominal Operations),0.92
+RAKE-20250640,None (Nominal Operations),0.88
+RAKE-20250641,Shift Handover Delay,0.77
+RAKE-20250642,Railway Traffic,0.59
+RAKE-20250643,None (Nominal Operations),0.96
+RAKE-20250644,None (Nominal Operations),0.93
+RAKE-20250645,Railway Traffic,0.43
+RAKE-20250646,None (Nominal Operations),0.71
+RAKE-20250647,None (Nominal Operations),0.92
+RAKE-20250648,Shift Handover Delay,0.72
+RAKE-20250649,None (Nominal Operations),0.85
+RAKE-20250650,Equipment Breakdown,0.37
+RAKE-20250651,Yard Congestion,0.22
+RAKE-20250652,None (Nominal Operations),0.79
+RAKE-20250653,Equipment Breakdown,0.38
+RAKE-20250654,None (Nominal Operations),0.73
+RAKE-20250655,None (Nominal Operations),0.75
+RAKE-20250656,None (Nominal Operations),0.7
+RAKE-20250657,None (Nominal Operations),0.81
+RAKE-20250658,None (Nominal Operations),0.97
+RAKE-20250659,None (Nominal Operations),0.95
+RAKE-20250660,Equipment Breakdown,0.23
+RAKE-20250661,None (Nominal Operations),0.91
+RAKE-20250662,None (Nominal Operations),0.84
+RAKE-20250663,Shift Handover Delay,0.96
+RAKE-20250664,None (Nominal Operations),0.83
+RAKE-20250665,None (Nominal Operations),0.83
+RAKE-20250666,None (Nominal Operations),0.78
+RAKE-20250667,Yard Congestion,0.21
+RAKE-20250668,None (Nominal Operations),0.91
+RAKE-20250669,None (Nominal Operations),0.9
+RAKE-20250670,None (Nominal Operations),0.97
+RAKE-20250671,None (Nominal Operations),0.8
+RAKE-20250672,None (Nominal Operations),0.92
+RAKE-20250673,Yard Congestion,0.11
+RAKE-20250674,None (Nominal Operations),0.91
+RAKE-20250675,None (Nominal Operations),0.92
+RAKE-20250676,None (Nominal Operations),0.95
+RAKE-20250677,None (Nominal Operations),0.79
+RAKE-20250678,None (Nominal Operations),0.81
+RAKE-20250679,Equipment Breakdown,0.32
+RAKE-20250680,None (Nominal Operations),0.79
+RAKE-20250681,Railway Traffic,0.55
+RAKE-20250682,None (Nominal Operations),0.97
+RAKE-20250683,Equipment Breakdown,0.43
+RAKE-20250684,None (Nominal Operations),0.89
+RAKE-20250685,None (Nominal Operations),0.74
+RAKE-20250686,None (Nominal Operations),0.71
+RAKE-20250687,Yard Congestion,0.21
+RAKE-20250688,None (Nominal Operations),0.84
+RAKE-20250689,None (Nominal Operations),0.8
+RAKE-20250690,None (Nominal Operations),0.92
+RAKE-20250691,Yard Congestion,0.33
+RAKE-20250692,None (Nominal Operations),0.9
+RAKE-20250693,Railway Traffic,0.43
+RAKE-20250694,None (Nominal Operations),0.71
+RAKE-20250695,None (Nominal Operations),0.76
+RAKE-20250696,Shift Handover Delay,0.81
+RAKE-20250697,Yard Congestion,0.42
+RAKE-20250698,None (Nominal Operations),0.83
+RAKE-20250699,Yard Congestion,0.17
+RAKE-20250700,None (Nominal Operations),0.87
+RAKE-20250701,None (Nominal Operations),0.87
+RAKE-20250702,None (Nominal Operations),0.89
+RAKE-20250703,Shift Handover Delay,0.71
+RAKE-20250704,Railway Traffic,0.43
+RAKE-20250705,Equipment Breakdown,0.48
+RAKE-20250706,Railway Traffic,0.51
+RAKE-20250707,Railway Traffic,0.38
+RAKE-20250708,None (Nominal Operations),0.77
+RAKE-20250709,None (Nominal Operations),0.72
+RAKE-20250710,Railway Traffic,0.58
+RAKE-20250711,Shift Handover Delay,0.7
+RAKE-20250712,Equipment Breakdown,0.21
+RAKE-20250713,Equipment Breakdown,0.48
+RAKE-20250714,None (Nominal Operations),0.88
+RAKE-20250715,Equipment Breakdown,0.25
+RAKE-20250716,None (Nominal Operations),0.83
+RAKE-20250717,None (Nominal Operations),0.79
+RAKE-20250718,None (Nominal Operations),0.79
+RAKE-20250719,None (Nominal Operations),0.89
+RAKE-20250720,None (Nominal Operations),0.88
+RAKE-20250721,None (Nominal Operations),0.8
+RAKE-20250722,Weather Disruption,0.18
+RAKE-20250723,Weather Disruption,0.14
+RAKE-20250724,None (Nominal Operations),0.72
+RAKE-20250725,None (Nominal Operations),0.88
+RAKE-20250726,Equipment Breakdown,0.36
+RAKE-20250727,None (Nominal Operations),0.8
+RAKE-20250728,None (Nominal Operations),0.86
+RAKE-20250729,None (Nominal Operations),0.76
+RAKE-20250730,Shift Handover Delay,0.71
+RAKE-20250731,None (Nominal Operations),0.87
+RAKE-20250732,Yard Congestion,0.26
+RAKE-20250733,None (Nominal Operations),0.71
+RAKE-20250734,None (Nominal Operations),0.96
+RAKE-20250735,None (Nominal Operations),0.71
+RAKE-20250736,None (Nominal Operations),0.96
+RAKE-20250737,Shift Handover Delay,0.84
+RAKE-20250738,Equipment Breakdown,0.26
+RAKE-20250739,Weather Disruption,0.11
+RAKE-20250740,None (Nominal Operations),0.74
+RAKE-20250741,Railway Traffic,0.42
+RAKE-20250742,Equipment Breakdown,0.45
+RAKE-20250743,Equipment Breakdown,0.24
+RAKE-20250744,None (Nominal Operations),0.87
+RAKE-20250745,None (Nominal Operations),0.72
+RAKE-20250746,None (Nominal Operations),0.89
+RAKE-20250747,None (Nominal Operations),0.74
+RAKE-20250748,None (Nominal Operations),0.78
+RAKE-20250749,None (Nominal Operations),0.78
+RAKE-20250750,Weather Disruption,0.15
+RAKE-20250751,Equipment Breakdown,0.46
+RAKE-20250752,Equipment Breakdown,0.29
+RAKE-20250753,None (Nominal Operations),0.81
+RAKE-20250754,Yard Congestion,0.27
+RAKE-20250755,None (Nominal Operations),0.97
+RAKE-20250756,None (Nominal Operations),0.88
+RAKE-20250757,None (Nominal Operations),0.9
+RAKE-20250758,Shift Handover Delay,0.95
+RAKE-20250759,None (Nominal Operations),0.73
+RAKE-20250760,Yard Congestion,0.3
+RAKE-20250761,None (Nominal Operations),0.94
+RAKE-20250762,Yard Congestion,0.14
+RAKE-20250763,None (Nominal Operations),0.86
+RAKE-20250764,None (Nominal Operations),0.82
+RAKE-20250765,Shift Handover Delay,0.84
+RAKE-20250766,None (Nominal Operations),0.95
+RAKE-20250767,None (Nominal Operations),0.97
+RAKE-20250768,None (Nominal Operations),0.92
+RAKE-20250769,None (Nominal Operations),0.71
+RAKE-20250770,Shift Handover Delay,0.71
+RAKE-20250771,None (Nominal Operations),0.91
+RAKE-20250772,Equipment Breakdown,0.47
+RAKE-20250773,None (Nominal Operations),0.91
+RAKE-20250774,Yard Congestion,0.41
+RAKE-20250775,None (Nominal Operations),0.88
+RAKE-20250776,Weather Disruption,0.12
+RAKE-20250777,Weather Disruption,0.18
+RAKE-20250778,None (Nominal Operations),0.74
+RAKE-20250779,None (Nominal Operations),0.75
+RAKE-20250780,Equipment Breakdown,0.44
+RAKE-20250781,None (Nominal Operations),0.98
+RAKE-20250782,None (Nominal Operations),0.91
+RAKE-20250783,None (Nominal Operations),0.73
+RAKE-20250784,Weather Disruption,0.26
+RAKE-20250785,Yard Congestion,0.21
+RAKE-20250786,None (Nominal Operations),0.98
+RAKE-20250787,None (Nominal Operations),0.78
+RAKE-20250788,Shift Handover Delay,0.91
+RAKE-20250789,None (Nominal Operations),0.96
+RAKE-20250790,Weather Disruption,0.11
+RAKE-20250791,None (Nominal Operations),0.73
+RAKE-20250792,None (Nominal Operations),0.97
+RAKE-20250793,None (Nominal Operations),0.8
+RAKE-20250794,Railway Traffic,0.37
+RAKE-20250795,None (Nominal Operations),0.96
+RAKE-20250796,None (Nominal Operations),0.9
+RAKE-20250797,None (Nominal Operations),0.92
+RAKE-20250798,None (Nominal Operations),0.81
+RAKE-20250799,Shift Handover Delay,0.95
+RAKE-20250800,None (Nominal Operations),0.73
+RAKE-20250801,None (Nominal Operations),0.91
+RAKE-20250802,Yard Congestion,0.13
+RAKE-20250803,Yard Congestion,0.15
+RAKE-20250804,Railway Traffic,0.64
+RAKE-20250805,None (Nominal Operations),0.73
+RAKE-20250806,Railway Traffic,0.47
+RAKE-20250807,None (Nominal Operations),0.86
+RAKE-20250808,Shift Handover Delay,0.97
+RAKE-20250809,None (Nominal Operations),0.92
+RAKE-20250810,Shift Handover Delay,0.95
+RAKE-20250811,Yard Congestion,0.3
+RAKE-20250812,None (Nominal Operations),0.84
+RAKE-20250813,None (Nominal Operations),0.87
+RAKE-20250814,Shift Handover Delay,0.74
+RAKE-20250815,None (Nominal Operations),0.73
+RAKE-20250816,None (Nominal Operations),0.81
+RAKE-20250817,Shift Handover Delay,0.95
+RAKE-20250818,Yard Congestion,0.13
+RAKE-20250819,Yard Congestion,0.4
+RAKE-20250820,None (Nominal Operations),0.73
+RAKE-20250821,Shift Handover Delay,0.96
+RAKE-20250822,None (Nominal Operations),0.78
+RAKE-20250823,Equipment Breakdown,0.44
+RAKE-20250824,None (Nominal Operations),0.87
+RAKE-20250825,None (Nominal Operations),0.92
+RAKE-20250826,None (Nominal Operations),0.72
+RAKE-20250827,None (Nominal Operations),0.7
+RAKE-20250828,None (Nominal Operations),0.81
+RAKE-20250829,Equipment Breakdown,0.41
+RAKE-20250830,Shift Handover Delay,0.79
+RAKE-20250831,None (Nominal Operations),0.72
+RAKE-20250832,Yard Congestion,0.28
+RAKE-20250833,Yard Congestion,0.26
+RAKE-20250834,None (Nominal Operations),0.97
+RAKE-20250835,None (Nominal Operations),0.71
+RAKE-20250836,None (Nominal Operations),0.92
+RAKE-20250837,Equipment Breakdown,0.45
+RAKE-20250838,None (Nominal Operations),0.88
+RAKE-20250839,Yard Congestion,0.31
+RAKE-20250840,Yard Congestion,0.37
+RAKE-20250841,None (Nominal Operations),0.9
+RAKE-20250842,None (Nominal Operations),0.78
+RAKE-20250843,Shift Handover Delay,0.83
+RAKE-20250844,Shift Handover Delay,0.88
+RAKE-20250845,None (Nominal Operations),0.73
+RAKE-20250846,Shift Handover Delay,0.94
+RAKE-20250847,Yard Congestion,0.4
+RAKE-20250848,None (Nominal Operations),0.92
+RAKE-20250849,Railway Traffic,0.58
+RAKE-20250850,Shift Handover Delay,0.89
+RAKE-20250851,None (Nominal Operations),0.93
+RAKE-20250852,Shift Handover Delay,0.8
+RAKE-20250853,None (Nominal Operations),0.98
+RAKE-20250854,Yard Congestion,0.15
+RAKE-20250855,Shift Handover Delay,0.77
+RAKE-20250856,Shift Handover Delay,0.77
+RAKE-20250857,None (Nominal Operations),0.7
+RAKE-20250858,None (Nominal Operations),0.78
+RAKE-20250859,Shift Handover Delay,0.88
+RAKE-20250860,Equipment Breakdown,0.3
+RAKE-20250861,Railway Traffic,0.42
+RAKE-20250862,None (Nominal Operations),0.76
+RAKE-20250863,None (Nominal Operations),0.9
+RAKE-20250864,None (Nominal Operations),0.72
+RAKE-20250865,None (Nominal Operations),0.94
+RAKE-20250866,None (Nominal Operations),0.7
+RAKE-20250867,None (Nominal Operations),0.86
+RAKE-20250868,Shift Handover Delay,0.77
+RAKE-20250869,None (Nominal Operations),0.89
+RAKE-20250870,None (Nominal Operations),0.89
+RAKE-20250871,None (Nominal Operations),0.84
+RAKE-20250872,None (Nominal Operations),0.96
+RAKE-20250873,None (Nominal Operations),0.77
+RAKE-20250874,Equipment Breakdown,0.37
+RAKE-20250875,None (Nominal Operations),0.92
+RAKE-20250876,None (Nominal Operations),0.86
+RAKE-20250877,None (Nominal Operations),0.8
+RAKE-20250878,Equipment Breakdown,0.26
+RAKE-20250879,None (Nominal Operations),0.8
+RAKE-20250880,None (Nominal Operations),0.78
+RAKE-20250881,None (Nominal Operations),0.88
+RAKE-20250882,Yard Congestion,0.3
+RAKE-20250883,Yard Congestion,0.25
+RAKE-20250884,None (Nominal Operations),0.76
+RAKE-20250885,Railway Traffic,0.39
+RAKE-20250886,Equipment Breakdown,0.38
+RAKE-20250887,Yard Congestion,0.36
+RAKE-20250888,Shift Handover Delay,0.93
+RAKE-20250889,None (Nominal Operations),0.77
+RAKE-20250890,None (Nominal Operations),0.77
+RAKE-20250891,Railway Traffic,0.57
+RAKE-20250892,None (Nominal Operations),0.87
+RAKE-20250893,None (Nominal Operations),0.81
+RAKE-20250894,None (Nominal Operations),0.74
+RAKE-20250895,Equipment Breakdown,0.49
+RAKE-20250896,Yard Congestion,0.19
+RAKE-20250897,Shift Handover Delay,0.83
+RAKE-20250898,Yard Congestion,0.23
+RAKE-20250899,None (Nominal Operations),0.92
+RAKE-20250900,Equipment Breakdown,0.28
+RAKE-20250901,None (Nominal Operations),0.85
+RAKE-20250902,None (Nominal Operations),0.73
+RAKE-20250903,Railway Traffic,0.57
+RAKE-20250904,None (Nominal Operations),0.82
+RAKE-20250905,Railway Traffic,0.37
+RAKE-20250906,None (Nominal Operations),0.84
+RAKE-20250907,None (Nominal Operations),0.74
+RAKE-20250908,None (Nominal Operations),0.91
+RAKE-20250909,None (Nominal Operations),0.96
+RAKE-20250910,Shift Handover Delay,0.85
+RAKE-20250911,None (Nominal Operations),0.71
+RAKE-20250912,None (Nominal Operations),0.94
+RAKE-20250913,None (Nominal Operations),0.83
+RAKE-20250914,Equipment Breakdown,0.47
+RAKE-20250915,Yard Congestion,0.12
+RAKE-20250916,Shift Handover Delay,0.7
+RAKE-20250917,Yard Congestion,0.34
+RAKE-20250918,None (Nominal Operations),0.93
+RAKE-20250919,None (Nominal Operations),0.91
+RAKE-20250920,Equipment Breakdown,0.33
+RAKE-20250921,Yard Congestion,0.19
+RAKE-20250922,None (Nominal Operations),0.94
+RAKE-20250923,Weather Disruption,0.17
+RAKE-20250924,None (Nominal Operations),0.74
+RAKE-20250925,Equipment Breakdown,0.36
+RAKE-20250926,None (Nominal Operations),0.8
+RAKE-20250927,None (Nominal Operations),0.87
+RAKE-20250928,None (Nominal Operations),0.97
+RAKE-20250929,Railway Traffic,0.47
+RAKE-20250930,None (Nominal Operations),0.85
+RAKE-20250931,Weather Disruption,0.17
+RAKE-20250932,None (Nominal Operations),0.9
+RAKE-20250933,None (Nominal Operations),0.9
+RAKE-20250934,None (Nominal Operations),0.7
+RAKE-20250935,None (Nominal Operations),0.91
+RAKE-20250936,None (Nominal Operations),0.93
+RAKE-20250937,Shift Handover Delay,0.8
+RAKE-20250938,None (Nominal Operations),0.82
+RAKE-20250939,None (Nominal Operations),0.8
+RAKE-20250940,None (Nominal Operations),0.74
+RAKE-20250941,Equipment Breakdown,0.4
+RAKE-20250942,Equipment Breakdown,0.32
+RAKE-20250943,None (Nominal Operations),0.82
+RAKE-20250944,None (Nominal Operations),0.9
+RAKE-20250945,Shift Handover Delay,0.93
+RAKE-20250946,None (Nominal Operations),0.77
+RAKE-20250947,None (Nominal Operations),0.79
+RAKE-20250948,None (Nominal Operations),0.86
+RAKE-20250949,None (Nominal Operations),0.72
+RAKE-20250950,None (Nominal Operations),0.85
+RAKE-20250951,None (Nominal Operations),0.89
+RAKE-20250952,Equipment Breakdown,0.37
+RAKE-20250953,Equipment Breakdown,0.3
+RAKE-20250954,None (Nominal Operations),0.79
+RAKE-20250955,None (Nominal Operations),0.76
+RAKE-20250956,Yard Congestion,0.18
+RAKE-20250957,Yard Congestion,0.33
+RAKE-20250958,None (Nominal Operations),0.86
+RAKE-20250959,None (Nominal Operations),0.8
+RAKE-20250960,None (Nominal Operations),0.95
+RAKE-20250961,Shift Handover Delay,0.8
+RAKE-20250962,None (Nominal Operations),0.88
+RAKE-20250963,None (Nominal Operations),0.79
+RAKE-20250964,None (Nominal Operations),0.89
+RAKE-20250965,None (Nominal Operations),0.78
+RAKE-20250966,Railway Traffic,0.52
+RAKE-20250967,None (Nominal Operations),0.85
+RAKE-20250968,None (Nominal Operations),0.85
+RAKE-20250969,None (Nominal Operations),0.75
+RAKE-20250970,Shift Handover Delay,0.73
+RAKE-20250971,Yard Congestion,0.26
+RAKE-20250972,None (Nominal Operations),0.72
+RAKE-20250973,None (Nominal Operations),0.75
+RAKE-20250974,Weather Disruption,0.29
+RAKE-20250975,None (Nominal Operations),0.82
+RAKE-20250976,Yard Congestion,0.12
+RAKE-20250977,None (Nominal Operations),0.94
+RAKE-20250978,None (Nominal Operations),0.91
+RAKE-20250979,None (Nominal Operations),0.76
+RAKE-20250980,None (Nominal Operations),0.88
+RAKE-20250981,Yard Congestion,0.2
+RAKE-20250982,Railway Traffic,0.37
+RAKE-20250983,None (Nominal Operations),0.73
+RAKE-20250984,None (Nominal Operations),0.78
+RAKE-20250985,Yard Congestion,0.27
+RAKE-20250986,Equipment Breakdown,0.46
+RAKE-20250987,None (Nominal Operations),0.76
+RAKE-20250988,None (Nominal Operations),0.89
+RAKE-20250989,None (Nominal Operations),0.72
+RAKE-20250990,Equipment Breakdown,0.47
+RAKE-20250991,None (Nominal Operations),0.87
+RAKE-20250992,None (Nominal Operations),0.75
+RAKE-20250993,Weather Disruption,0.19
+RAKE-20250994,Shift Handover Delay,0.86
+RAKE-20250995,Shift Handover Delay,0.79
+RAKE-20250996,None (Nominal Operations),0.76
+RAKE-20250997,None (Nominal Operations),0.97
+RAKE-20250998,Shift Handover Delay,0.72
+RAKE-20250999,None (Nominal Operations),0.78
+RAKE-20251000,None (Nominal Operations),0.83
+RAKE-20251001,None (Nominal Operations),0.93
+RAKE-20251002,Equipment Breakdown,0.2
+RAKE-20251003,Railway Traffic,0.6
+RAKE-20251004,None (Nominal Operations),0.93
+RAKE-20251005,None (Nominal Operations),0.78
+RAKE-20251006,None (Nominal Operations),0.84
+RAKE-20251007,None (Nominal Operations),0.72
+RAKE-20251008,None (Nominal Operations),0.97
+RAKE-20251009,None (Nominal Operations),0.74
+RAKE-20251010,Shift Handover Delay,0.78
+RAKE-20251011,None (Nominal Operations),0.95
+RAKE-20251012,None (Nominal Operations),0.88
+RAKE-20251013,Yard Congestion,0.33
+RAKE-20251014,None (Nominal Operations),0.9
+RAKE-20251015,None (Nominal Operations),0.85
+RAKE-20251016,None (Nominal Operations),0.74
+RAKE-20251017,Weather Disruption,0.13
+RAKE-20251018,Yard Congestion,0.31
+RAKE-20251019,None (Nominal Operations),0.82
+RAKE-20251020,Shift Handover Delay,0.82
+RAKE-20251021,None (Nominal Operations),0.96
+RAKE-20251022,None (Nominal Operations),0.9
+RAKE-20251023,None (Nominal Operations),0.92
+RAKE-20251024,Railway Traffic,0.44
+RAKE-20251025,None (Nominal Operations),0.75
+RAKE-20251026,Yard Congestion,0.27
+RAKE-20251027,Shift Handover Delay,0.89
+RAKE-20251028,None (Nominal Operations),0.8
+RAKE-20251029,Yard Congestion,0.39
+RAKE-20251030,None (Nominal Operations),0.82
+RAKE-20251031,None (Nominal Operations),0.89
+RAKE-20251032,None (Nominal Operations),0.81
+RAKE-20251033,None (Nominal Operations),0.82
+RAKE-20251034,Equipment Breakdown,0.24
+RAKE-20251035,None (Nominal Operations),0.86
+RAKE-20251036,Weather Disruption,0.24
+RAKE-20251037,Yard Congestion,0.35
+RAKE-20251038,Equipment Breakdown,0.48
+RAKE-20251039,None (Nominal Operations),0.84
+RAKE-20251040,None (Nominal Operations),0.78
+RAKE-20251041,Yard Congestion,0.36
+RAKE-20251042,None (Nominal Operations),0.74
+RAKE-20251043,None (Nominal Operations),0.89
+RAKE-20251044,None (Nominal Operations),0.94
+RAKE-20251045,Shift Handover Delay,0.79
+RAKE-20251046,None (Nominal Operations),0.82
+RAKE-20251047,None (Nominal Operations),0.73
+RAKE-20251048,None (Nominal Operations),0.77
+RAKE-20251049,Weather Disruption,0.28
+RAKE-20251050,None (Nominal Operations),0.93
+RAKE-20251051,Railway Traffic,0.52
+RAKE-20251052,Equipment Breakdown,0.44
+RAKE-20251053,Yard Congestion,0.25
+RAKE-20251054,None (Nominal Operations),0.73
+RAKE-20251055,Railway Traffic,0.49
+RAKE-20251056,None (Nominal Operations),0.92
+RAKE-20251057,Equipment Breakdown,0.46
+RAKE-20251058,None (Nominal Operations),0.93
+RAKE-20251059,Equipment Breakdown,0.35
+RAKE-20251060,Equipment Breakdown,0.42
+RAKE-20251061,None (Nominal Operations),0.86
+RAKE-20251062,None (Nominal Operations),0.82
+RAKE-20251063,Equipment Breakdown,0.25
+RAKE-20251064,None (Nominal Operations),0.74
+RAKE-20251065,Yard Congestion,0.4
+RAKE-20251066,None (Nominal Operations),0.97
+RAKE-20251067,None (Nominal Operations),0.71
+RAKE-20251068,Weather Disruption,0.25
+RAKE-20251069,Shift Handover Delay,0.92
+RAKE-20251070,Equipment Breakdown,0.22
+RAKE-20251071,None (Nominal Operations),0.87
+RAKE-20251072,None (Nominal Operations),0.9
+RAKE-20251073,None (Nominal Operations),0.75
+RAKE-20251074,None (Nominal Operations),0.98
+RAKE-20251075,Yard Congestion,0.29
+RAKE-20251076,Shift Handover Delay,0.93
+RAKE-20251077,None (Nominal Operations),0.84
+RAKE-20251078,None (Nominal Operations),0.82
+RAKE-20251079,Yard Congestion,0.19
+RAKE-20251080,None (Nominal Operations),0.78
+RAKE-20251081,Weather Disruption,0.12
+RAKE-20251082,None (Nominal Operations),0.8
+RAKE-20251083,None (Nominal Operations),0.72
+RAKE-20251084,Weather Disruption,0.16
+RAKE-20251085,None (Nominal Operations),0.96
+RAKE-20251086,None (Nominal Operations),0.9
+RAKE-20251087,None (Nominal Operations),0.82
+RAKE-20251088,None (Nominal Operations),0.74
+RAKE-20251089,Yard Congestion,0.4
+RAKE-20251090,None (Nominal Operations),0.98
+RAKE-20251091,Railway Traffic,0.58
+RAKE-20251092,None (Nominal Operations),0.92
+RAKE-20251093,None (Nominal Operations),0.78
+RAKE-20251094,Equipment Breakdown,0.28
+RAKE-20251095,None (Nominal Operations),0.79
+RAKE-20251096,None (Nominal Operations),0.9
+RAKE-20251097,Shift Handover Delay,0.84
+RAKE-20251098,Shift Handover Delay,0.88
+RAKE-20251099,None (Nominal Operations),0.89
+RAKE-20251100,None (Nominal Operations),0.93
+RAKE-20251101,Shift Handover Delay,0.85
+RAKE-20251102,None (Nominal Operations),0.71
+RAKE-20251103,None (Nominal Operations),0.87
+RAKE-20251104,None (Nominal Operations),0.86
+RAKE-20251105,None (Nominal Operations),0.73
+RAKE-20251106,Shift Handover Delay,0.94
+RAKE-20251107,Equipment Breakdown,0.21
+RAKE-20251108,None (Nominal Operations),0.9
+RAKE-20251109,Railway Traffic,0.43
+RAKE-20251110,None (Nominal Operations),0.96
+RAKE-20251111,None (Nominal Operations),0.85
+RAKE-20251112,Shift Handover Delay,0.72
+RAKE-20251113,None (Nominal Operations),0.87
+RAKE-20251114,None (Nominal Operations),0.93
+RAKE-20251115,None (Nominal Operations),0.78
+RAKE-20251116,None (Nominal Operations),0.8
+RAKE-20251117,Equipment Breakdown,0.41
+RAKE-20251118,None (Nominal Operations),0.78
+RAKE-20251119,None (Nominal Operations),0.71
+RAKE-20251120,Equipment Breakdown,0.45
+RAKE-20251121,None (Nominal Operations),0.96
+RAKE-20251122,None (Nominal Operations),0.81
+RAKE-20251123,Equipment Breakdown,0.22
+RAKE-20251124,Equipment Breakdown,0.35
+RAKE-20251125,Weather Disruption,0.13
+RAKE-20251126,None (Nominal Operations),0.93
+RAKE-20251127,Shift Handover Delay,0.82
+RAKE-20251128,Railway Traffic,0.6
+RAKE-20251129,None (Nominal Operations),0.82
+RAKE-20251130,None (Nominal Operations),0.76
+RAKE-20251131,None (Nominal Operations),0.75
+RAKE-20251132,None (Nominal Operations),0.88
+RAKE-20251133,Shift Handover Delay,0.91
+RAKE-20251134,Shift Handover Delay,0.72
+RAKE-20251135,None (Nominal Operations),0.72
+RAKE-20251136,None (Nominal Operations),0.71
+RAKE-20251137,Equipment Breakdown,0.21
+RAKE-20251138,None (Nominal Operations),0.83
+RAKE-20251139,None (Nominal Operations),0.77
+RAKE-20251140,None (Nominal Operations),0.87
+RAKE-20251141,None (Nominal Operations),0.8
+RAKE-20251142,None (Nominal Operations),0.83
+RAKE-20251143,None (Nominal Operations),0.78
+RAKE-20251144,Equipment Breakdown,0.46
+RAKE-20251145,Equipment Breakdown,0.48
+RAKE-20251146,None (Nominal Operations),0.8
+RAKE-20251147,Shift Handover Delay,0.71
+RAKE-20251148,None (Nominal Operations),0.73
+RAKE-20251149,Yard Congestion,0.33
+RAKE-20251150,Weather Disruption,0.16
+RAKE-20251151,None (Nominal Operations),0.92
+RAKE-20251152,None (Nominal Operations),0.72
+RAKE-20251153,Yard Congestion,0.37
+RAKE-20251154,None (Nominal Operations),0.93
+RAKE-20251155,None (Nominal Operations),0.74
+RAKE-20251156,None (Nominal Operations),0.72
+RAKE-20251157,Shift Handover Delay,0.97
+RAKE-20251158,Equipment Breakdown,0.32
+RAKE-20251159,Railway Traffic,0.59
+RAKE-20251160,None (Nominal Operations),0.84
+RAKE-20251161,None (Nominal Operations),0.89
+RAKE-20251162,None (Nominal Operations),0.72
+RAKE-20251163,None (Nominal Operations),0.75
+RAKE-20251164,None (Nominal Operations),0.95
+RAKE-20251165,None (Nominal Operations),0.95
+RAKE-20251166,Shift Handover Delay,0.85
+RAKE-20251167,None (Nominal Operations),0.93
+RAKE-20251168,None (Nominal Operations),0.97
+RAKE-20251169,None (Nominal Operations),0.85
+RAKE-20251170,None (Nominal Operations),0.74
+RAKE-20251171,None (Nominal Operations),0.88
+RAKE-20251172,Yard Congestion,0.12
+RAKE-20251173,None (Nominal Operations),0.75
+RAKE-20251174,None (Nominal Operations),0.76
+RAKE-20251175,Railway Traffic,0.36
+RAKE-20251176,Weather Disruption,0.17
+RAKE-20251177,None (Nominal Operations),0.77
+RAKE-20251178,Yard Congestion,0.11
+RAKE-20251179,None (Nominal Operations),0.82
+RAKE-20251180,None (Nominal Operations),0.87
+RAKE-20251181,None (Nominal Operations),0.86
+RAKE-20251182,None (Nominal Operations),0.98
+RAKE-20251183,Yard Congestion,0.29
+RAKE-20251184,Shift Handover Delay,0.91
+RAKE-20251185,None (Nominal Operations),0.85
+RAKE-20251186,None (Nominal Operations),0.94
+RAKE-20251187,None (Nominal Operations),0.83
+RAKE-20251188,None (Nominal Operations),0.95
+RAKE-20251189,Railway Traffic,0.49
+RAKE-20251190,Railway Traffic,0.37
+RAKE-20251191,Yard Congestion,0.42
+RAKE-20251192,Weather Disruption,0.24
+RAKE-20251193,None (Nominal Operations),0.84
+RAKE-20251194,Yard Congestion,0.38
+RAKE-20251195,None (Nominal Operations),0.74
+RAKE-20251196,None (Nominal Operations),0.88
+RAKE-20251197,None (Nominal Operations),0.76
+RAKE-20251198,None (Nominal Operations),0.78
+RAKE-20251199,None (Nominal Operations),0.77
+RAKE-20251200,None (Nominal Operations),0.98
+RAKE-20251201,Equipment Breakdown,0.44
+RAKE-20251202,Shift Handover Delay,0.84
+RAKE-20251203,None (Nominal Operations),0.96
+RAKE-20251204,Railway Traffic,0.57
+RAKE-20251205,None (Nominal Operations),0.83
+RAKE-20251206,None (Nominal Operations),0.88
+RAKE-20251207,None (Nominal Operations),0.7
+RAKE-20251208,None (Nominal Operations),0.85
+RAKE-20251209,None (Nominal Operations),0.73
+RAKE-20251210,None (Nominal Operations),0.72
+RAKE-20251211,None (Nominal Operations),0.89
+RAKE-20251212,None (Nominal Operations),0.81
+RAKE-20251213,None (Nominal Operations),0.91
+RAKE-20251214,None (Nominal Operations),0.74
+RAKE-20251215,None (Nominal Operations),0.74
+RAKE-20251216,Railway Traffic,0.56
+RAKE-20251217,None (Nominal Operations),0.95
+RAKE-20251218,None (Nominal Operations),0.77
+RAKE-20251219,Weather Disruption,0.19
+RAKE-20251220,None (Nominal Operations),0.87
+RAKE-20251221,None (Nominal Operations),0.91
+RAKE-20251222,None (Nominal Operations),0.8
+RAKE-20251223,Yard Congestion,0.4
+RAKE-20251224,Equipment Breakdown,0.22
+RAKE-20251225,None (Nominal Operations),0.86
+RAKE-20251226,Railway Traffic,0.36
+RAKE-20251227,None (Nominal Operations),0.94
+RAKE-20251228,Shift Handover Delay,0.7
+RAKE-20251229,None (Nominal Operations),0.89
+RAKE-20251230,None (Nominal Operations),0.82
+RAKE-20251231,Yard Congestion,0.15
+RAKE-20251232,None (Nominal Operations),0.79
+RAKE-20251233,None (Nominal Operations),0.7
+RAKE-20251234,Equipment Breakdown,0.24
+RAKE-20251235,None (Nominal Operations),0.87
+RAKE-20251236,None (Nominal Operations),0.74
+RAKE-20251237,Shift Handover Delay,0.9
+RAKE-20251238,Equipment Breakdown,0.42
+RAKE-20251239,Yard Congestion,0.32
+RAKE-20251240,Shift Handover Delay,0.91
+RAKE-20251241,None (Nominal Operations),0.91
+RAKE-20251242,None (Nominal Operations),0.72
+RAKE-20251243,Equipment Breakdown,0.27
+RAKE-20251244,None (Nominal Operations),0.88
+RAKE-20251245,Shift Handover Delay,0.93
+RAKE-20251246,Yard Congestion,0.23
+RAKE-20251247,None (Nominal Operations),0.91
+RAKE-20251248,None (Nominal Operations),0.82
+RAKE-20251249,None (Nominal Operations),0.87
+RAKE-20251250,Yard Congestion,0.15
+RAKE-20251251,None (Nominal Operations),0.78
+RAKE-20251252,None (Nominal Operations),0.85
+RAKE-20251253,None (Nominal Operations),0.92
+RAKE-20251254,Shift Handover Delay,0.78
+RAKE-20251255,None (Nominal Operations),0.9
+RAKE-20251256,None (Nominal Operations),0.79
+RAKE-20251257,Equipment Breakdown,0.44
+RAKE-20251258,Shift Handover Delay,0.74
+RAKE-20251259,None (Nominal Operations),0.93
+RAKE-20251260,None (Nominal Operations),0.93
+RAKE-20251261,None (Nominal Operations),0.89
+RAKE-20251262,Yard Congestion,0.32
+RAKE-20251263,None (Nominal Operations),0.76
+RAKE-20251264,None (Nominal Operations),0.85
+RAKE-20251265,None (Nominal Operations),0.8
+RAKE-20251266,None (Nominal Operations),0.74
+RAKE-20251267,None (Nominal Operations),0.97
+RAKE-20251268,None (Nominal Operations),0.89
+RAKE-20251269,Equipment Breakdown,0.3
+RAKE-20251270,Equipment Breakdown,0.37
+RAKE-20251271,None (Nominal Operations),0.75
+RAKE-20251272,Equipment Breakdown,0.39
+RAKE-20251273,None (Nominal Operations),0.77
+RAKE-20251274,None (Nominal Operations),0.8
+RAKE-20251275,None (Nominal Operations),0.94
+RAKE-20251276,None (Nominal Operations),0.92
+RAKE-20251277,None (Nominal Operations),0.78
+RAKE-20251278,None (Nominal Operations),0.7
+RAKE-20251279,None (Nominal Operations),0.82
+RAKE-20251280,None (Nominal Operations),0.73
+RAKE-20251281,None (Nominal Operations),0.77
+RAKE-20251282,Yard Congestion,0.11
+RAKE-20251283,None (Nominal Operations),0.94
+RAKE-20251284,None (Nominal Operations),0.75
+RAKE-20251285,None (Nominal Operations),0.83
+RAKE-20251286,None (Nominal Operations),0.9
+RAKE-20251287,Weather Disruption,0.18
+RAKE-20251288,None (Nominal Operations),0.93
+RAKE-20251289,None (Nominal Operations),0.77
+RAKE-20251290,Yard Congestion,0.28
+RAKE-20251291,None (Nominal Operations),0.75
+RAKE-20251292,None (Nominal Operations),0.72
+RAKE-20251293,None (Nominal Operations),0.8
+RAKE-20251294,Yard Congestion,0.17
+RAKE-20251295,None (Nominal Operations),0.75
+RAKE-20251296,Shift Handover Delay,0.96
+RAKE-20251297,None (Nominal Operations),0.86
+RAKE-20251298,None (Nominal Operations),0.82
+RAKE-20251299,None (Nominal Operations),0.86
+RAKE-20251300,None (Nominal Operations),0.85
+RAKE-20251301,None (Nominal Operations),0.74
+RAKE-20251302,Equipment Breakdown,0.43
+RAKE-20251303,Yard Congestion,0.36
+RAKE-20251304,Shift Handover Delay,0.84
+RAKE-20251305,Equipment Breakdown,0.46
+RAKE-20251306,None (Nominal Operations),0.88
+RAKE-20251307,None (Nominal Operations),0.98
+RAKE-20251308,None (Nominal Operations),0.79
+RAKE-20251309,Equipment Breakdown,0.39
+RAKE-20251310,Yard Congestion,0.39
+RAKE-20251311,None (Nominal Operations),0.94
+RAKE-20251312,Equipment Breakdown,0.38
+RAKE-20251313,None (Nominal Operations),0.88
+RAKE-20251314,Equipment Breakdown,0.5
+RAKE-20251315,Yard Congestion,0.32
+RAKE-20251316,None (Nominal Operations),0.88
+RAKE-20251317,Equipment Breakdown,0.22
+RAKE-20251318,None (Nominal Operations),0.86
+RAKE-20251319,Shift Handover Delay,0.77
+RAKE-20251320,None (Nominal Operations),0.71
+RAKE-20251321,None (Nominal Operations),0.75
+RAKE-20251322,Yard Congestion,0.39
+RAKE-20251323,None (Nominal Operations),0.84
+RAKE-20251324,Shift Handover Delay,0.85
+RAKE-20251325,Yard Congestion,0.13
+RAKE-20251326,Yard Congestion,0.16
+RAKE-20251327,None (Nominal Operations),0.72
+RAKE-20251328,Yard Congestion,0.29
+RAKE-20251329,None (Nominal Operations),0.89
+RAKE-20251330,Equipment Breakdown,0.41
+RAKE-20251331,None (Nominal Operations),0.78
+RAKE-20251332,None (Nominal Operations),0.94
+RAKE-20251333,None (Nominal Operations),0.79
+RAKE-20251334,Shift Handover Delay,0.71
+RAKE-20251335,None (Nominal Operations),0.93
+RAKE-20251336,Shift Handover Delay,0.87
+RAKE-20251337,None (Nominal Operations),0.78
+RAKE-20251338,Equipment Breakdown,0.45
+RAKE-20251339,None (Nominal Operations),0.78
+RAKE-20251340,Shift Handover Delay,0.96
+RAKE-20251341,None (Nominal Operations),0.95
+RAKE-20251342,None (Nominal Operations),0.87
+RAKE-20251343,Yard Congestion,0.28
+RAKE-20251344,Equipment Breakdown,0.38
+RAKE-20251345,None (Nominal Operations),0.76
+RAKE-20251346,None (Nominal Operations),0.85
+RAKE-20251347,Equipment Breakdown,0.45
+RAKE-20251348,None (Nominal Operations),0.79
+RAKE-20251349,Yard Congestion,0.4
+RAKE-20251350,None (Nominal Operations),0.94
+RAKE-20251351,Equipment Breakdown,0.29
+RAKE-20251352,None (Nominal Operations),0.92
+RAKE-20251353,None (Nominal Operations),0.92
+RAKE-20251354,Equipment Breakdown,0.26
+RAKE-20251355,None (Nominal Operations),0.75
+RAKE-20251356,None (Nominal Operations),0.87
+RAKE-20251357,None (Nominal Operations),0.7
+RAKE-20251358,None (Nominal Operations),0.83
+RAKE-20251359,None (Nominal Operations),0.73
+RAKE-20251360,None (Nominal Operations),0.71
+RAKE-20251361,None (Nominal Operations),0.9
+RAKE-20251362,None (Nominal Operations),0.78
+RAKE-20251363,Railway Traffic,0.45
+RAKE-20251364,Shift Handover Delay,0.71
+RAKE-20251365,None (Nominal Operations),0.77
+RAKE-20251366,None (Nominal Operations),0.93
+RAKE-20251367,Shift Handover Delay,0.74
+RAKE-20251368,Shift Handover Delay,0.81
+RAKE-20251369,None (Nominal Operations),0.79
+RAKE-20251370,None (Nominal Operations),0.74
+RAKE-20251371,None (Nominal Operations),0.81
+RAKE-20251372,None (Nominal Operations),0.7
+RAKE-20251373,None (Nominal Operations),0.75
+RAKE-20251374,None (Nominal Operations),0.86
+RAKE-20251375,None (Nominal Operations),0.97
+RAKE-20251376,None (Nominal Operations),0.93
+RAKE-20251377,None (Nominal Operations),0.88
+RAKE-20251378,Railway Traffic,0.44
+RAKE-20251379,None (Nominal Operations),0.91
+RAKE-20251380,None (Nominal Operations),0.83
+RAKE-20251381,Shift Handover Delay,0.87
+RAKE-20251382,None (Nominal Operations),0.93
+RAKE-20251383,None (Nominal Operations),0.84
+RAKE-20251384,None (Nominal Operations),0.92
+RAKE-20251385,Railway Traffic,0.4
+RAKE-20251386,None (Nominal Operations),0.89
+RAKE-20251387,Equipment Breakdown,0.43
+RAKE-20251388,None (Nominal Operations),0.76
+RAKE-20251389,None (Nominal Operations),0.76
+RAKE-20251390,None (Nominal Operations),0.79
+RAKE-20251391,None (Nominal Operations),0.92
+RAKE-20251392,None (Nominal Operations),0.73
+RAKE-20251393,None (Nominal Operations),0.95
+RAKE-20251394,None (Nominal Operations),0.83
+RAKE-20251395,Yard Congestion,0.11
+RAKE-20251396,Yard Congestion,0.24
+RAKE-20251397,None (Nominal Operations),0.89
+RAKE-20251398,None (Nominal Operations),0.75
+RAKE-20251399,None (Nominal Operations),0.81
+RAKE-20251400,Shift Handover Delay,0.74
+RAKE-20251401,Shift Handover Delay,0.79
+RAKE-20251402,Shift Handover Delay,0.77
+RAKE-20251403,None (Nominal Operations),0.75
+RAKE-20251404,None (Nominal Operations),0.72
+RAKE-20251405,Yard Congestion,0.34
+RAKE-20251406,Weather Disruption,0.2
+RAKE-20251407,Equipment Breakdown,0.29
+RAKE-20251408,None (Nominal Operations),0.79
+RAKE-20251409,None (Nominal Operations),0.74
+RAKE-20251410,None (Nominal Operations),0.89
+RAKE-20251411,None (Nominal Operations),0.92
+RAKE-20251412,Shift Handover Delay,0.87
+RAKE-20251413,Shift Handover Delay,0.87
+RAKE-20251414,None (Nominal Operations),0.92
+RAKE-20251415,None (Nominal Operations),0.91
+RAKE-20251416,None (Nominal Operations),0.87
+RAKE-20251417,None (Nominal Operations),0.83
+RAKE-20251418,None (Nominal Operations),0.78
+RAKE-20251419,Shift Handover Delay,0.72
+RAKE-20251420,Shift Handover Delay,0.81
+RAKE-20251421,Shift Handover Delay,0.95
+RAKE-20251422,Railway Traffic,0.53
+RAKE-20251423,None (Nominal Operations),0.97
+RAKE-20251424,Weather Disruption,0.11
+RAKE-20251425,None (Nominal Operations),0.82
+RAKE-20251426,None (Nominal Operations),0.85
+RAKE-20251427,None (Nominal Operations),0.82
+RAKE-20251428,None (Nominal Operations),0.72
+RAKE-20251429,None (Nominal Operations),0.92
+RAKE-20251430,Railway Traffic,0.51
+RAKE-20251431,None (Nominal Operations),0.73
+RAKE-20251432,None (Nominal Operations),0.81
+RAKE-20251433,None (Nominal Operations),0.7
+RAKE-20251434,Yard Congestion,0.14
+RAKE-20251435,None (Nominal Operations),0.71
+RAKE-20251436,None (Nominal Operations),0.97
+RAKE-20251437,None (Nominal Operations),0.87
+RAKE-20251438,Yard Congestion,0.25
+RAKE-20251439,Equipment Breakdown,0.48
+RAKE-20251440,Shift Handover Delay,0.97
+RAKE-20251441,Yard Congestion,0.38
+RAKE-20251442,Equipment Breakdown,0.5
+RAKE-20251443,None (Nominal Operations),0.97
+RAKE-20251444,None (Nominal Operations),0.78
+RAKE-20251445,None (Nominal Operations),0.72
+RAKE-20251446,Yard Congestion,0.41
+RAKE-20251447,Shift Handover Delay,0.82
+RAKE-20251448,Yard Congestion,0.25
+RAKE-20251449,None (Nominal Operations),0.88
+RAKE-20251450,Yard Congestion,0.38
+RAKE-20251451,None (Nominal Operations),0.81
+RAKE-20251452,None (Nominal Operations),0.88
+RAKE-20251453,Yard Congestion,0.18
+RAKE-20251454,Yard Congestion,0.32
+RAKE-20251455,Equipment Breakdown,0.34
+RAKE-20251456,None (Nominal Operations),0.81
+RAKE-20251457,Railway Traffic,0.56
+RAKE-20251458,None (Nominal Operations),0.96
+RAKE-20251459,None (Nominal Operations),0.98
+RAKE-20251460,Shift Handover Delay,0.95
+RAKE-20251461,None (Nominal Operations),0.84
+RAKE-20251462,None (Nominal Operations),0.94
+RAKE-20251463,Railway Traffic,0.56
+RAKE-20251464,None (Nominal Operations),0.75
+RAKE-20251465,Shift Handover Delay,0.96
+RAKE-20251466,None (Nominal Operations),0.79
+RAKE-20251467,None (Nominal Operations),0.93
+RAKE-20251468,Shift Handover Delay,0.7
+RAKE-20251469,Yard Congestion,0.25
+RAKE-20251470,Equipment Breakdown,0.31
+RAKE-20251471,Yard Congestion,0.34
+RAKE-20251472,Yard Congestion,0.15
+RAKE-20251473,None (Nominal Operations),0.8
+RAKE-20251474,None (Nominal Operations),0.96
+RAKE-20251475,None (Nominal Operations),0.89
+RAKE-20251476,None (Nominal Operations),0.86
+RAKE-20251477,Shift Handover Delay,0.81
+RAKE-20251478,None (Nominal Operations),0.76
+RAKE-20251479,Shift Handover Delay,0.73
+RAKE-20251480,None (Nominal Operations),0.76
+RAKE-20251481,None (Nominal Operations),0.8
+RAKE-20251482,None (Nominal Operations),0.92
+RAKE-20251483,None (Nominal Operations),0.7
+RAKE-20251484,Shift Handover Delay,0.91
+RAKE-20251485,None (Nominal Operations),0.73
+RAKE-20251486,Yard Congestion,0.29
+RAKE-20251487,None (Nominal Operations),0.76
+RAKE-20251488,Shift Handover Delay,0.72
+RAKE-20251489,Yard Congestion,0.26
+RAKE-20251490,None (Nominal Operations),0.93
+RAKE-20251491,None (Nominal Operations),0.78
+RAKE-20251492,Railway Traffic,0.59
+RAKE-20251493,None (Nominal Operations),0.79
+RAKE-20251494,Yard Congestion,0.17
+RAKE-20251495,Railway Traffic,0.64
+RAKE-20251496,None (Nominal Operations),0.97
+RAKE-20251497,None (Nominal Operations),0.73
+RAKE-20251498,None (Nominal Operations),0.79
+RAKE-20251499,None (Nominal Operations),0.7
+RAKE-20251500,None (Nominal Operations),0.72
